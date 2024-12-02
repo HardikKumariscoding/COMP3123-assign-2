@@ -26,7 +26,7 @@ An Employee Management application built using MERN stack: Mongodb.Express.React
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HardikKumariscoding/COMP3123_assignment-2/tree/main
+   git clone https://github.com/HardikKumariscoding/COMP3123-assign-2
 
 2.   Install dependencies:
 
